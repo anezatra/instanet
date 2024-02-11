@@ -9,7 +9,7 @@
 **You are responsible for everything you do with this program. We do not accept any liability.**
 ## How to start 🔍
 **Type the command to run it directly:** <br/><br/>
-` python3 main.py `
+` python3 instanet.py `
 ## How to download 💡
 **You can download instanet directly by saying** <br/><br/>
 ` pip install -r requirements.txt `
